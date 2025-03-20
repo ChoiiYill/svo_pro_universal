@@ -30,16 +30,22 @@ Pangolin is used for lightweight visualization. Codes for simple viewer are in `
 
 Type `GLOG_v=${level}` as command prefix to set glogv level.
 
+#### environment
+WSL2-Ubuntu 18.04
+CUDA - v9.1.85
+CMake - 3.18.4
+OpenCV - 3.x
 
 #### install
 Make sure you have installed:
 - OpenCV 4.x
 - Eigen 3.4.0
 - OpenGV
-- Ceres-Solver
-- Glog
+- Ceres-Solver - 2.0.0
+- Glog - 0.6.0
 - yaml-cpp
 - pangolin
+
 
 Then run the following commands:
 ```sh
