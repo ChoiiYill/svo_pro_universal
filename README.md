@@ -31,10 +31,10 @@ Pangolin is used for lightweight visualization. Codes for simple viewer are in `
 Type `GLOG_v=${level}` as command prefix to set glogv level.
 
 #### environment
-WSL2-Ubuntu 18.04
-CUDA - v9.1.85
-CMake - 3.18.4
-OpenCV - 3.x
+- WSL2-Ubuntu 18.04
+- CUDA - v9.1.85
+- CMake - 3.18.4
+- OpenCV - 3.x
 
 #### install
 Make sure you have installed:
