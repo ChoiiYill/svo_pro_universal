@@ -43,7 +43,7 @@ endif()
 find_package(Threads REQUIRED)
 find_package(OpenCV REQUIRED)
 find_package(Eigen3 REQUIRED)
-find_package(Ceres REQUIRED)
+find_package(Ceres 2 REQUIRED)
 find_package(yaml-cpp REQUIRED)
 find_package(glog REQUIRED)
 
